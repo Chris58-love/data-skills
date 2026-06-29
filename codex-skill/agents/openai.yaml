@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Data Analysis Pipeline"
+  short_description: "Standardize multi-source business data analysis workflows."
+  default_prompt: "Use $business-data-analysis-pipeline to run a standardized multi-source business data analysis workflow with QC and delivery checks."
